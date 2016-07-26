@@ -1,2 +1,2 @@
 # yelp-comments-monitor
-aooaoa
+This program is used to monitor your yelp reviews
