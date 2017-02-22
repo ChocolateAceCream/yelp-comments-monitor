@@ -69,6 +69,7 @@ while true do
         p 'Sending msg'
         message=message*","
         send_message(message)
+        #Set checking frequency here, default is avoiding weekend checking
         if Time.now.strftime("%A") == "Friday"
             sleep 72*3600
         else
