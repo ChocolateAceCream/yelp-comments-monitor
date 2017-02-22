@@ -26,7 +26,7 @@ def send_message(message)
 
     sender = "+15162102226" # Your Twilio number
     receiver = {
-        "+16469156636" => "Stupid Clare"
+        "+16469156636" => "Clare"
     }
     receiver.each do |key, value|
         phone_client.account.messages.create(
