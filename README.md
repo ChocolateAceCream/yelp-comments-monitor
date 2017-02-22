@@ -1,7 +1,7 @@
 # yelp-comments-monitor
 This program is used to monitor your yelp reviews
 
-Setup:
+Setup:<br>
 1. Store the Yelp authentication information in .bashrc as ENV variable<br>
 2. Update the business ID list<br>
 3. Update the cell phone number for both sender and receiver<br>
